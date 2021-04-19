@@ -1,16 +1,12 @@
-# Midnight Lights Visual Studio Theme
+# Midnight Deep Visual Studio Theme
 
-[![Build Status](https://dev.azure.com/austinstanding/Midnight%20Lights/_apis/build/status/Midnight%20Lights?branchName=master)](https://dev.azure.com/austinstanding/Midnight%20Lights/_build/latest?definitionId=3&branchName=master)
+*DISCLAIMER: This is a work in progress! I have a lot of refining to do before this is released on the VS Marketplace.*
 
-🌌 **Midnight Lights** is a dark theme for Visual Studio 2019, made with [Color Theme Designer](https://marketplace.visualstudio.com/items?itemName=ms-madsk.ColorThemeDesigner).
+⚫ **Midnight Deep** is a fork of my other theme 🌌 **Midnight Lights** available [here](https://github.com/austinstanding/midnight-deep-vstheme). This aims to be a true dark theme for Visual Studio 2019.
 
-![Midnight Lights Screenshot](https://github.com/austinstanding/midnight-lights-vstheme/raw/master/images/screenshot1.png)
+![Midnight Deep Screenshot](https://github.com/austinstanding/midnight-deep-vstheme/raw/master/images/screenshot1.png)
 
-This is my first theme and you will probably find some quirks. This is a personal project, but feel free to [fork the repository](https://github.com/austinstanding/midnight-lights-vstheme)!
-
-## Installation
-
-After [installing the extension from the Marketplace](https://marketplace.visualstudio.com/items?itemName=AustinStanding.vsthememidnightlights), the theme will be available in the dropdown under *Tools -> Options -> General*.
+This theme was born out of a need for darkness; to rest my eyes after an extended period of working long hours and feeling like all the other dark themes just weren't dark enough. This aims to be that dark theme. Midnight Deep draws from the palette of Midnight Lights, while providing a true hex #000000 background and lower brightness generally. I understand this won't be for everyone, but my vision for this is to provide an after hours theme that will let your eyes find rest even when you can't.
 
 ## Misc
 
@@ -20,16 +16,6 @@ I like to extend my theme with [Viasfora](https://marketplace.visualstudio.com/i
 
 ## Versions
 
-### v1.1.5
+### v0.1
 
-- Modified peek background, updated theme icon
-
-### v1.1.1
-
-- Modified Razor code highlighting to better match theme
-
-### v1.1
-
-- Darkened editor background to match window backgrounds
-- Darkened menu shadows (no more glow, sorry if you liked that)
-- Modified editor background on Outline hover to better match theme
+- In progress!
