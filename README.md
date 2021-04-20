@@ -2,7 +2,7 @@
 
 *DISCLAIMER: This is a work in progress! I have a lot of refining to do before this is released on the VS Marketplace.*
 
-⚫ **Midnight Deep** is a fork of my other theme 🌌 **Midnight Lights** available [here](https://github.com/austinstanding/midnight-deep-vstheme). This aims to be a true dark theme for Visual Studio 2019.
+⚫ **Midnight Deep** is a fork of my other theme 🌌 **Midnight Lights** available [here](https://github.com/austinstanding/midnight-lights-vstheme). This aims to be a true dark theme for Visual Studio 2019.
 
 ![Midnight Deep Screenshot](https://github.com/austinstanding/midnight-deep-vstheme/raw/master/images/screenshot1.png)
 

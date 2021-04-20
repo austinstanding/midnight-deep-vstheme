@@ -4,7 +4,7 @@
 		"Themes"
 	],
 	"identity": {
-		"internalName": "vsthememidnightlights",
+		"internalName": "vsthememidnightdeep",
 		"tags": [
 			"dark",
 			"theme",
@@ -17,5 +17,5 @@
 	"publisher": "austinstanding",
 	"private": false,
 	"qna": false,
-	"repo": "https://github.com/austinstanding/midnight-lights-vstheme"
+	"repo": "https://github.com/austinstanding/midnight-deep-vstheme"
 }

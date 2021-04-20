@@ -1,5 +1,5 @@
 $PersonalAccessToken = $args[0]
-$VsixPath = "$PSScriptRoot\..\MidnightLightsProject\bin\Release\MidnightLights.vsix"
+$VsixPath = "$PSScriptRoot\..\MidnightDeepProject\bin\Release\MidnightDeep.vsix"
 $ManifestPath = "$PSScriptRoot\extension-manifest.json"
 
 # Find the location of VsixPublisher

@@ -13,8 +13,8 @@
     <ProjectGuid>{578ABA5A-2D17-47DB-9A84-EDA0962D3ED9}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MidnightLights</RootNamespace>
-    <AssemblyName>MidnightLights</AssemblyName>
+    <RootNamespace>MidnightDeep</RootNamespace>
+    <AssemblyName>MidnightDeep</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <GeneratePkgDefFile>false</GeneratePkgDefFile>
     <UseCodebase>true</UseCodebase>
@@ -63,7 +63,7 @@
     <PackageReference Include="Microsoft.VSSDK.BuildTools" Version="16.1.3132" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="midnight_lights_preview.PNG">
+    <Content Include="midnight_deep_preview.PNG">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
