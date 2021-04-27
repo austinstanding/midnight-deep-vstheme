@@ -12,7 +12,7 @@ This theme was born out of a need for darkness; to rest my eyes after an extende
 
 CI/CD uses Azure DevOps, following [Meziantou's Blog](https://www.meziantou.net/ci-cd-pipeline-for-a-visual-studio-extension-vsix-using-azure-devops.htm).
 
-I like to extend my theme with [Viasfora](https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora), mostly for Rainbow Braces. I've added my Viasfora theme within the github repo as `viasfora-theme.json`. If you're a Viasfora user, themes can be exported/imported from *Tools -> Options -> Viasfora -> Import/Export*.
+I like to extend my theme with [Viasfora](https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora), mostly for Rainbow Braces. I've added my Viasfora theme within the github repo as `viasfora-theme.json`. If you're a Viasfora user, themes can be exported/imported from *Tools -> Options -> Viasfora -> Export / Import*. The section Themes takes `.json` and `.vsftheme` files.
 
 ## Versions
 
