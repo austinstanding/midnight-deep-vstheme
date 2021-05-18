@@ -3381,10 +3381,10 @@
         <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="FileTabHotGradientTop">
-        <Background Type="CT_RAW" Source="FF2FDCD7" />
+        <Background Type="CT_RAW" Source="FF067B7A" />
       </Color>
       <Color Name="FileTabHotGradientBottom">
-        <Background Type="CT_RAW" Source="FF2FDCD7" />
+        <Background Type="CT_RAW" Source="FF067B7A" />
       </Color>
       <Color Name="FileTabDocumentBorderShadow">
         <Background Type="CT_RAW" Source="FF103156" />
