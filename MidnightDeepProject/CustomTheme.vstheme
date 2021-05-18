@@ -3327,10 +3327,10 @@
         <Background Type="CT_RAW" Source="FF04071F" />
       </Color>
       <Color Name="ToolWindowButtonDown">
-        <Background Type="CT_RAW" Source="FF034849" />
+        <Background Type="CT_RAW" Source="FF04071F" />
       </Color>
       <Color Name="ToolWindowButtonDownBorder">
-        <Background Type="CT_RAW" Source="FF034849" />
+        <Background Type="CT_RAW" Source="FF04071F" />
       </Color>
       <Color Name="ToolWindowButtonHoverActive">
         <Background Type="CT_RAW" Source="FF067B7A" />
