@@ -2408,7 +2408,7 @@
         <Background Type="CT_RAW" Source="FF656565" />
       </Color>
       <Color Name="FileTabHotBorder">
-        <Background Type="CT_RAW" Source="FF2FDCD7" />
+        <Background Type="CT_RAW" Source="FF067B7A" />
       </Color>
       <Color Name="FileTabHotText">
         <Background Type="CT_RAW" Source="FFCCCCCC" />
@@ -3595,10 +3595,10 @@
         <Background Type="CT_RAW" Source="FF4E6685" />
       </Color>
       <Color Name="FileTabButtonHoverInactive">
-        <Background Type="CT_RAW" Source="FF067B7A" />
+        <Background Type="CT_RAW" Source="FF034849" />
       </Color>
       <Color Name="FileTabButtonHoverInactiveBorder">
-        <Background Type="CT_RAW" Source="FF067B7A" />
+        <Background Type="CT_RAW" Source="FF034849" />
       </Color>
       <Color Name="FileTabButtonHoverInactiveGlyph">
         <Background Type="CT_RAW" Source="FFCCCCCC" />
@@ -3622,10 +3622,10 @@
         <Background Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="FileTabButtonDownSelectedActive">
-        <Background Type="CT_RAW" Source="FF034849" />
+        <Background Type="CT_RAW" Source="FF04071F" />
       </Color>
       <Color Name="FileTabButtonDownSelectedActiveBorder">
-        <Background Type="CT_RAW" Source="FF034849" />
+        <Background Type="CT_RAW" Source="FF04071F" />
       </Color>
       <Color Name="FileTabButtonDownSelectedActiveGlyph">
         <Background Type="CT_RAW" Source="FFCCCCCC" />
