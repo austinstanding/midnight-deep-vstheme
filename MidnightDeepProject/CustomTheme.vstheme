@@ -4526,7 +4526,7 @@
         <Foreground Type="CT_RAW" Source="FF606060" />
       </Color>
       <Color Name="PluginFontEditorBreakpointBackgroundColor">
-        <Foreground Type="CT_RAW" Source="FF963A46" />
+        <Foreground Type="CT_RAW" Source="FF5c232a" />
       </Color>
       <Color Name="PluginFontEditorCommentColor">
         <Foreground Type="CT_RAW" Source="FF006400" />
