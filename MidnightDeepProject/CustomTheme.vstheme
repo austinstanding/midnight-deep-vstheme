@@ -7588,7 +7588,7 @@
         <Foreground Type="CT_RAW" Source="FFD7BA7D" />
       </Color>
       <Color Name="Track Changes before save">
-        <Background Type="CT_RAW" Source="FFFEC620" />
+        <Background Type="CT_RAW" Source="FFF5CB34" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Track Changes after save">
@@ -7684,7 +7684,7 @@
         <Foreground Type="CT_RAW" Source="FFFFDBA3" />
       </Color>
       <Color Name="Current Statement">
-        <Background Type="CT_RAW" Source="FFFEC620" />
+        <Background Type="CT_RAW" Source="FFF5CB34" />
         <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="Executing Thread IP">
