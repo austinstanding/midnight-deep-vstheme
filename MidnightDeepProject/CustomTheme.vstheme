@@ -2549,19 +2549,19 @@
         <Background Type="CT_RAW" Source="FF04071F" />
       </Color>
       <Color Name="ScrollBarThumbBackground">
-        <Background Type="CT_RAW" Source="FF515151" />
+        <Background Type="CT_RAW" Source="FF4C4F57" />
       </Color>
       <Color Name="ScrollBarThumbBorder">
-        <Background Type="CT_RAW" Source="FF515151" />
+        <Background Type="CT_RAW" Source="FF4C4F57" />
       </Color>
       <Color Name="ScrollBarThumbGlyph">
-        <Background Type="CT_RAW" Source="FF515151" />
+        <Background Type="CT_RAW" Source="FF4C4F57" />
       </Color>
       <Color Name="ScrollBarThumbMouseOverBackground">
-        <Background Type="CT_RAW" Source="FF686868" />
+        <Background Type="CT_RAW" Source="FF686C78" />
       </Color>
       <Color Name="ScrollBarThumbPressedBackground">
-        <Background Type="CT_RAW" Source="FF9E9E9E" />
+        <Background Type="CT_RAW" Source="FF878B97" />
       </Color>
       <Color Name="SearchBoxBackground">
         <Background Type="CT_RAW" Source="FF000000" />
@@ -4018,16 +4018,16 @@
         <Background Type="CT_RAW" Source="FF1C1C1C" />
       </Color>
       <Color Name="ScrollBarThumbMouseOverBorder">
-        <Background Type="CT_RAW" Source="FF686868" />
+        <Background Type="CT_RAW" Source="FF686C78" />
       </Color>
       <Color Name="ScrollBarThumbPressedBorder">
-        <Background Type="CT_RAW" Source="FF9E9E9E" />
+        <Background Type="CT_RAW" Source="FF878B97" />
       </Color>
       <Color Name="ScrollBarThumbGlyphMouseOverBorder">
-        <Background Type="CT_RAW" Source="FF686868" />
+        <Background Type="CT_RAW" Source="FF686C78" />
       </Color>
       <Color Name="ScrollBarThumbGlyphPressedBorder">
-        <Background Type="CT_RAW" Source="FF9E9E9E" />
+        <Background Type="CT_RAW" Source="FF878B97" />
       </Color>
       <Color Name="StatusBarHighlight">
         <Background Type="CT_RAW" Source="4C000000" />
@@ -4947,7 +4947,7 @@
       </Color>
       <Color Name="OverviewMarginVisible">
         <Background Type="CT_RAW" Source="FF04060D" />
-        <Foreground Type="CT_RAW" Source="FF686868" />
+        <Foreground Type="CT_RAW" Source="FF686C78" />
       </Color>
       <Color Name="OverviewMarginCaret">
         <Background Type="CT_INVALID" Source="00000000" />
