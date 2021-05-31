@@ -175,14 +175,14 @@
         <Background Type="CT_RAW" Source="FF090C1D" />
       </Color>
       <Color Name="TabItemMouseOver">
-        <Background Type="CT_RAW" Source="FF04071F" />
+        <Background Type="CT_RAW" Source="FF08182A" />
         <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="TabItemMouseOverBorder">
-        <Background Type="CT_RAW" Source="FF04071F" />
+        <Background Type="CT_RAW" Source="FF08182A" />
       </Color>
       <Color Name="TabItemSelected">
-        <Background Type="CT_RAW" Source="FF0D101B" />
+        <Background Type="CT_RAW" Source="FF08182A" />
         <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="HyperlinkMouseOver">
@@ -229,7 +229,7 @@
         <Background Type="CT_RAW" Source="FF090C1D" />
       </Color>
       <Color Name="ListItemMouseOver">
-        <Background Type="CT_RAW" Source="FF04071F" />
+        <Background Type="CT_RAW" Source="FF103156" />
         <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="ListItemMouseOverBorder">
@@ -2922,13 +2922,13 @@
         <Background Type="CT_RAW" Source="FF555555" />
       </Color>
       <Color Name="ControlLinkText">
-        <Background Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="FF25456D" />
       </Color>
       <Color Name="ControlLinkTextHover">
-        <Background Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="FF55AAFF" />
       </Color>
       <Color Name="ControlLinkTextPressed">
-        <Background Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="FF25456D" />
       </Color>
       <Color Name="ControlOutline">
         <Background Type="CT_RAW" Source="FF000000" />
@@ -3739,16 +3739,16 @@
         <Background Type="CT_RAW" Source="FF04071F" />
       </Color>
       <Color Name="CommandBarMenuGroupHeaderLinkText">
-        <Background Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="FF25456D" />
       </Color>
       <Color Name="CommandBarMenuGroupHeaderLinkTextHover">
         <Background Type="CT_RAW" Source="FF55AAFF" />
       </Color>
       <Color Name="CommandBarMenuWatermarkLinkTextHover">
-        <Background Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="FF25456D" />
       </Color>
       <Color Name="CommandBarMenuLinkText">
-        <Background Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="FF25456D" />
       </Color>
       <Color Name="CommandBarMenuLinkTextHover">
         <Background Type="CT_RAW" Source="FF55AAFF" />
@@ -3770,7 +3770,7 @@
         <Foreground Type="CT_RAW" Source="FFD0D0D0" />
       </Color>
       <Color Name="DiagReportLinkText">
-        <Background Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="FF25456D" />
       </Color>
       <Color Name="DiagReportLinkTextHover">
         <Background Type="CT_RAW" Source="FF55AAFF" />
@@ -3999,7 +3999,7 @@
         <Background Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="CommandBarMenuItemMouseOver">
-        <Background Type="CT_RAW" Source="FF04071F" />
+        <Background Type="CT_RAW" Source="FF103156" />
         <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="ScrollBarArrowGlyphPressed">
