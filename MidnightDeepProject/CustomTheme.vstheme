@@ -3339,10 +3339,10 @@
         <Background Type="CT_RAW" Source="FF067B7A" />
       </Color>
       <Color Name="ToolWindowButtonHoverInactive">
-        <Background Type="CT_RAW" Source="FF393939" />
+        <Background Type="CT_RAW" Source="FF034849" />
       </Color>
       <Color Name="ToolWindowButtonHoverInactiveBorder">
-        <Background Type="CT_RAW" Source="FF393939" />
+        <Background Type="CT_RAW" Source="FF034849" />
       </Color>
       <Color Name="ToolWindowText">
         <Background Type="CT_RAW" Source="FFCCCCCC" />
@@ -3363,7 +3363,7 @@
         <Background Type="CT_RAW" Source="FFD0D0D0" />
       </Color>
       <Color Name="ToolWindowTabSelectedText">
-        <Background Type="CT_RAW" Source="FF25456D" />
+        <Background Type="CT_RAW" Source="FF067B7A" />
       </Color>
       <Color Name="WizardOrientationPanelBackground">
         <Background Type="CT_RAW" Source="FFCCCCCC" />
@@ -3706,7 +3706,7 @@
         <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="ToolWindowTabSelectedActiveText">
-        <Background Type="CT_RAW" Source="FF25456D" />
+        <Background Type="CT_RAW" Source="FF067B7A" />
       </Color>
       <Color Name="CommandBarTextMouseDown">
         <Background Type="CT_RAW" Source="FFCCCCCC" />
@@ -6301,7 +6301,7 @@
         <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="MouseOverBackground">
-        <Background Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="FF04071F" />
         <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="MouseOverBorder">
