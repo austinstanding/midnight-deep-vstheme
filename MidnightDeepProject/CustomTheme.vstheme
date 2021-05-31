@@ -960,7 +960,7 @@
         <Background Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="ActionLink">
-        <Background Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="FF3399FF" />
       </Color>
       <Color Name="ActionLinkDisabled">
         <Background Type="CT_RAW" Source="FF999999" />
@@ -1022,10 +1022,10 @@
         <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="PopupBorder">
-        <Background Type="CT_RAW" Source="FF8CF1EF" />
+        <Background Type="CT_RAW" Source="FF3399FF" />
       </Color>
       <Color Name="PopupPinButtonHover">
-        <Background Type="CT_RAW" Source="FF686868" />
+        <Background Type="CT_RAW" Source="FF034849" />
         <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="PopupPinButtonMouseDown">
