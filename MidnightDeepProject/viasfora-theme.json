@@ -45,53 +45,53 @@
     "style": "None"
   },
   "viasfora.rainbow.1": {
-    "foreground": "DarkOrange",
+    "foreground": "E67E00",
     "background": "Automatic",
     "style": "None"
   },
   "viasfora.rainbow.2": {
-    "foreground": "Yellow",
+    "foreground": "E6E600",
     "background": "Automatic",
     "style": "None"
   },
   "viasfora.rainbow.3": {
-    "foreground": "LawnGreen",
+    "foreground": "73E600",
     "background": "Automatic",
     "style": "None"
   },
   "viasfora.rainbow.4": {
-    "foreground": "Aqua",
+    "foreground": "00E6E6",
     "background": "Automatic",
     "style": "None"
   },
   "viasfora.rainbow.5": {
-    "foreground": "Fuchsia",
+    "foreground": "E67E00",
     "background": "Automatic",
     "style": "None"
   },
   "viasfora.rainbow.6": {
-    "foreground": "DeepSkyBlue",
+    "foreground": "E6E600",
     "background": "Automatic",
     "style": "None"
   },
   "viasfora.rainbow.7": {
-    "foreground": "SpringGreen",
+    "foreground": "73E600",
     "background": "Automatic",
     "style": "None"
   },
   "viasfora.rainbow.8": {
-    "foreground": "DeepPink",
+    "foreground": "00E6E6",
     "background": "Automatic",
     "style": "None"
   },
   "viasfora.rainbow.9": {
-    "foreground": "Coral",
+    "foreground": "E67E00",
     "background": "Automatic",
     "style": "None"
   },
   "viasfora.rainbow.error": {
     "foreground": "Automatic",
-    "background": "Crimson",
+    "background": "D2143A",
     "style": "None"
   },
   "viasfora.xml.closing": {
