@@ -5339,46 +5339,46 @@
       </Color>
       <Color Name="viasfora.rainbow.1">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFE67E00" />
       </Color>
       <Color Name="viasfora.rainbow.2">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFE6E600" />
       </Color>
       <Color Name="viasfora.rainbow.3">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF73E600" />
       </Color>
       <Color Name="viasfora.rainbow.4">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF00E6E6" />
       </Color>
       <Color Name="viasfora.rainbow.5">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFE67E00" />
       </Color>
       <Color Name="viasfora.rainbow.6">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFE6E600" />
       </Color>
       <Color Name="viasfora.rainbow.7">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF73E600" />
       </Color>
       <Color Name="viasfora.rainbow.8">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF00E6E6" />
       </Color>
       <Color Name="viasfora.rainbow.9">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFE67E00" />
       </Color>
       <Color Name="viasfora.rainbow.tip.highlight">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="viasfora.rainbow.error">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFD2143A" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="TextMate.Classifier">
