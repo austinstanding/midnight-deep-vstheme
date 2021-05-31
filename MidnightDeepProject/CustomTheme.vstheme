@@ -7182,11 +7182,11 @@
         <Background Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="TextBox">
-        <Background Type="CT_RAW" Source="FF333333" />
+        <Background Type="CT_RAW" Source="FF04071F" />
         <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="TextBoxBorder">
-        <Background Type="CT_RAW" Source="FF3F5D7D" />
+        <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="RequiredTextBoxBorder">
         <Background Type="CT_RAW" Source="FF04071F" />
@@ -7209,10 +7209,10 @@
         <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="ButtonMouseOverBorder">
-        <Background Type="CT_RAW" Source="FF3F5D7D" />
+        <Background Type="CT_RAW" Source="FF3399FF" />
       </Color>
       <Color Name="ButtonMouseOver">
-        <Background Type="CT_RAW" Source="FF3E424F" />
+        <Background Type="CT_RAW" Source="FF04071F" />
         <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="ButtonDisabled">
@@ -7220,7 +7220,7 @@
         <Foreground Type="CT_RAW" Source="FF6D6D6D" />
       </Color>
       <Color Name="ButtonBorder">
-        <Background Type="CT_RAW" Source="FF3E424F" />
+        <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="Button">
         <Background Type="CT_RAW" Source="FF04071F" />
