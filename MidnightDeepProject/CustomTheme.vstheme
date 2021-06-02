@@ -1262,7 +1262,7 @@
         <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="ComboBoxGlyphHover">
-        <Background Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="ComboBoxGlyphBackgroundHover">
         <Background Type="CT_RAW" Source="FF090C1D" />
@@ -1280,16 +1280,16 @@
         <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="ComboBoxGlyphFocused">
-        <Background Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="ComboBoxGlyphBackgroundFocused">
         <Background Type="CT_RAW" Source="FF04071F" />
       </Color>
       <Color Name="ComboBoxListItemBackgroundHover">
-        <Background Type="CT_RAW" Source="FF08182A" />
+        <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="ComboBoxListItemBorderHover">
-        <Background Type="CT_RAW" Source="FF08182A" />
+        <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="ComboBoxListItemTextHover">
         <Background Type="CT_RAW" Source="FFCCCCCC" />
@@ -1298,7 +1298,7 @@
         <Background Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="ComboBoxListBackground">
-        <Background Type="CT_RAW" Source="FE6E6E6C" />
+        <Background Type="CT_RAW" Source="FF04071F" />
       </Color>
       <Color Name="ComboBoxListBorder">
         <Background Type="CT_RAW" Source="FF04071F" />
@@ -1307,7 +1307,7 @@
         <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="ComboBoxListBackgroundShadow">
-        <Background Type="CT_RAW" Source="19000000" />
+        <Background Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="ComboBoxTextInputSelection">
         <Background Type="CT_RAW" Source="6600D2CB" />
@@ -2162,7 +2162,7 @@
         <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="ComboBoxMouseOverGlyph">
-        <Background Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="ComboBoxPopupBackgroundBegin">
         <Background Type="CT_RAW" Source="FF000000" />
@@ -4103,7 +4103,7 @@
         <Background Type="CT_RAW" Source="FF090C1D" />
       </Color>
       <Color Name="ComboBoxFocusedGlyph">
-        <Background Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="ComboBoxFocusedBackground">
         <Background Type="CT_RAW" Source="FF04071F" />
@@ -4115,10 +4115,10 @@
         <Background Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="ComboBoxItemMouseOverBackground">
-        <Background Type="CT_RAW" Source="FF04071F" />
+        <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="ComboBoxItemMouseOverBorder">
-        <Background Type="CT_RAW" Source="FF04071F" />
+        <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="ComboBoxItemMouseOverText">
         <Background Type="CT_RAW" Source="FFCCCCCC" />
@@ -6967,7 +6967,7 @@
         <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="ComboBoxGlyphHover">
-        <Background Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="ComboBoxGlyphBackgroundHover">
         <Background Type="CT_RAW" Source="FF090C1D" />
@@ -6985,16 +6985,16 @@
         <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="ComboBoxGlyphFocused">
-        <Background Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="ComboBoxGlyphBackgroundFocused">
         <Background Type="CT_RAW" Source="FF04071F" />
       </Color>
       <Color Name="ComboBoxListItemBackgroundHover">
-        <Background Type="CT_RAW" Source="FF04071F" />
+        <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="ComboBoxListItemBorderHover">
-        <Background Type="CT_RAW" Source="FF04071F" />
+        <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="ComboBoxListItemTextHover">
         <Background Type="CT_RAW" Source="FFCCCCCC" />
@@ -7003,7 +7003,7 @@
         <Background Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="ComboBoxListBackground">
-        <Background Type="CT_RAW" Source="FE6E6E6C" />
+        <Background Type="CT_RAW" Source="FF04071F" />
       </Color>
       <Color Name="ComboBoxListBorder">
         <Background Type="CT_RAW" Source="FF04071F" />
@@ -7012,7 +7012,7 @@
         <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="ComboBoxListBackgroundShadow">
-        <Background Type="CT_RAW" Source="19000000" />
+        <Background Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="ComboBoxTextInputSelection">
         <Background Type="CT_RAW" Source="6600D2CB" />
