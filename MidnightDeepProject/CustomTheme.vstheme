@@ -768,7 +768,7 @@
         <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="SnapshotButtonBorder">
-        <Background Type="CT_RAW" Source="FF555555" />
+        <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="SnapshotButtonBorderActive">
         <Background Type="CT_RAW" Source="FF3399FF" />
@@ -1098,14 +1098,14 @@
         <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="ButtonBorder">
-        <Background Type="CT_RAW" Source="FF555555" />
+        <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="ButtonDefault">
         <Background Type="CT_RAW" Source="FF04071F" />
         <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="ButtonBorderDefault">
-        <Background Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="FF3399FF" />
       </Color>
       <Color Name="ButtonPressed">
         <Background Type="CT_RAW" Source="FF103156" />
@@ -1119,7 +1119,7 @@
         <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="ButtonBorderHover">
-        <Background Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="FF3399FF" />
       </Color>
       <Color Name="ButtonDisabled">
         <Background Type="CT_RAW" Source="FF000000" />
@@ -6810,7 +6810,7 @@
         <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="ButtonBorder">
-        <Background Type="CT_RAW" Source="FF555555" />
+        <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="ButtonPressed">
         <Background Type="CT_RAW" Source="FF103156" />
@@ -6824,7 +6824,7 @@
         <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="ButtonBorderHover">
-        <Background Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="FF3399FF" />
       </Color>
       <Color Name="ButtonDisabled">
         <Background Type="CT_RAW" Source="FF000000" />
@@ -8406,7 +8406,7 @@
         <Background Type="CT_RAW" Source="FF04071F" />
       </Color>
       <Color Name="ToastActionButtonBorder">
-        <Background Type="CT_RAW" Source="FF04071F" />
+        <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="ToastActionButtonText">
         <Background Type="CT_RAW" Source="FFCCCCCC" />
@@ -8415,7 +8415,7 @@
         <Background Type="CT_RAW" Source="FF04071F" />
       </Color>
       <Color Name="ToastActionButtonBorderHover">
-        <Background Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="FF3399FF" />
       </Color>
       <Color Name="ToastActionButtonTextHover">
         <Background Type="CT_RAW" Source="FFCCCCCC" />
