@@ -966,7 +966,7 @@
         <Background Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="ActionLinkItem">
-        <Foreground Type="CT_RAW" Source="FF103156" />
+        <Foreground Type="CT_RAW" Source="FF3399FF" />
       </Color>
       <Color Name="ActionLinkItemSelected">
         <Foreground Type="CT_RAW" Source="FFCCCCCC" />
@@ -975,10 +975,10 @@
         <Foreground Type="CT_RAW" Source="FF656565" />
       </Color>
       <Color Name="ActionLinkItemSelectedNotFocused">
-        <Foreground Type="CT_RAW" Source="FF103156" />
+        <Foreground Type="CT_RAW" Source="FF3399FF" />
       </Color>
       <Color Name="ActionLinkItemHover">
-        <Foreground Type="CT_RAW" Source="FF103156" />
+        <Foreground Type="CT_RAW" Source="FF3399FF" />
       </Color>
       <Color Name="ItemHoverText">
         <Background Type="CT_RAW" Source="FFCCCCCC" />
@@ -5972,7 +5972,7 @@
       </Color>
       <Color Name="TreeArrowMouseOver">
         <Background Type="CT_RAW" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF103156" />
+        <Foreground Type="CT_RAW" Source="FF3399FF" />
       </Color>
       <Color Name="ImageBorder">
         <Background Type="CT_RAW" Source="FF04071F" />
@@ -7164,16 +7164,16 @@
     </Category>
     <Category Name="TeamExplorer" GUID="{4aff231b-f28a-44f0-a66b-1beeb17cb920}">
       <Color Name="ActionLinkItem">
-        <Foreground Type="CT_RAW" Source="FF103156" />
+        <Foreground Type="CT_RAW" Source="FF3399FF" />
       </Color>
       <Color Name="ActionLinkItemSelected">
         <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="ActionLinkItemSelectedNotFocused">
-        <Foreground Type="CT_RAW" Source="FF103156" />
+        <Foreground Type="CT_RAW" Source="FF3399FF" />
       </Color>
       <Color Name="ActionLinkItemHover">
-        <Foreground Type="CT_RAW" Source="FF103156" />
+        <Foreground Type="CT_RAW" Source="FF3399FF" />
       </Color>
       <Color Name="ActionLinkItemDisabled">
         <Foreground Type="CT_RAW" Source="FF656565" />
@@ -7196,7 +7196,7 @@
         <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="CodeReviewDiscussionSelectedActionLink">
-        <Background Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="FF3399FF" />
       </Color>
       <Color Name="TextBoxHintText">
         <Background Type="CT_RAW" Source="FF999999" />
