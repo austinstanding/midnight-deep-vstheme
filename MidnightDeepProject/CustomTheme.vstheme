@@ -2249,7 +2249,7 @@
         <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="CommandBarOptionsMouseOverGlyph">
-        <Background Type="CT_RAW" Source="FF999999" />
+        <Background Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="CommandBarSelectedBorder">
         <Background Type="CT_RAW" Source="FF3399FF" />
@@ -2369,7 +2369,7 @@
         <Background Type="CT_RAW" Source="FF04071F" />
       </Color>
       <Color Name="DropDownMouseOverGlyph">
-        <Background Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="DropDownPopupBackgroundBegin">
         <Background Type="CT_RAW" Source="FF000000" />
@@ -4072,7 +4072,7 @@
         <Background Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="CommandBarSplitButtonMouseOverGlyph">
-        <Background Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="CommandBarSplitButtonMouseDownGlyph">
         <Background Type="CT_RAW" Source="FFCCCCCC" />
@@ -6370,7 +6370,7 @@
         <Background Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="PopupControlMouseDownBackgroundGradientEnd">
-        <Background Type="CT_RAW" Source="72555555" />
+        <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="PopupBorder">
         <Background Type="CT_RAW" Source="FF000000" />
@@ -6421,31 +6421,31 @@
         <Background Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="PopupControlMouseOverBorder">
-        <Background Type="CT_RAW" Source="72555555" />
+        <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="PopupControlMouseDownBorder">
-        <Background Type="CT_RAW" Source="72555555" />
+        <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="PopupControlMouseOverBackgroundGradientBegin">
-        <Background Type="CT_RAW" Source="72555555" />
+        <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="PopupControlMouseOverBackgroundGradientMiddle1">
-        <Background Type="CT_RAW" Source="72555555" />
+        <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="PopupControlMouseOverBackgroundGradientMiddle2">
-        <Background Type="CT_RAW" Source="72555555" />
+        <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="PopupControlMouseOverBackgroundGradientEnd">
-        <Background Type="CT_RAW" Source="72555555" />
+        <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="PopupControlMouseDownBackgroundGradientBegin">
-        <Background Type="CT_RAW" Source="72555555" />
+        <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="PopupControlMouseDownBackgroundGradientMiddle1">
-        <Background Type="CT_RAW" Source="72555555" />
+        <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="PopupControlMouseDownBackgroundGradientMiddle2">
-        <Background Type="CT_RAW" Source="72555555" />
+        <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="PopupSectionBackgroundGradientBegin">
         <Background Type="CT_RAW" Source="FF000000" />
@@ -6485,7 +6485,7 @@
         <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="ActionButtonMouseOverGlyph">
-        <Background Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="PopupCheckboxCheckmark">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
