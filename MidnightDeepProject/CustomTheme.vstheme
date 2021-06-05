@@ -1731,36 +1731,36 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="SelectedRelationLine">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="Surface">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF000000" />
+        <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="Shape">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF000000" />
+        <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="ShapeTitle">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF0A1C3B" />
+        <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="ActiveShapeTitle">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF067B7A" />
+        <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="Grid">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF000000" />
+        <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="RelationLine">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF103156" />
+        <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="RelationLabel">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF103156" />
+        <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
     </Category>
     <Category Name="DetailsView" GUID="{a128c60e-947c-4f26-95c9-fb4b3d53547f}">
@@ -8831,20 +8831,20 @@
     </Category>
     <Category Name="Database Designer" GUID="{4c889e8a-2bbb-4dc8-ae21-b1e4799d7631}">
       <Color Name="Text">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF000000" />
+        <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="Text Annotation">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF000000" />
+        <Foreground Type="CT_RAW" Source="FF067B7A" />
       </Color>
       <Color Name="Diagram Background">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF103156" />
+        <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="Table Title Bar">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF103156" />
+        <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
     </Category>
     <Category Name="DataTips" GUID="{f7b7b222-e186-48df-a5ee-174e8129891b}">
