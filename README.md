@@ -6,6 +6,10 @@
 
 This theme was born out of a need for darkness; to rest my eyes after an extended period of working long hours and feeling like all the other dark themes just weren't dark enough. This aims to be that dark theme. Midnight Deep draws from the palette of Midnight Lights, while providing a true hex #000000 background and lower brightness generally. This won't be for everyone or every occasion, but my vision is to provide an after hours theme that will let your eyes find rest even when you can't.
 
+## Installation
+
+After [installing the extension from the Marketplace](https://marketplace.visualstudio.com/items?itemName=AustinStanding.vsthememidnightdeep), the theme will be available in the dropdown under *Tools -> Options -> General*.
+
 ## Misc
 
 CI/CD uses Azure DevOps, following [Meziantou's Blog](https://www.meziantou.net/ci-cd-pipeline-for-a-visual-studio-extension-vsix-using-azure-devops.htm). CD presently disabled as VsixPublisher does not support the Themes category.
