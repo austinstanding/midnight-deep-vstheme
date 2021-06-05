@@ -940,7 +940,7 @@
       </Color>
       <Color Name="IndicatorTextHovered">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF103156" />
+        <Foreground Type="CT_RAW" Source="FF33AAFF" />
       </Color>
       <Color Name="IndicatorTextDisabled">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -4870,7 +4870,7 @@
         <Foreground Type="CT_RAW" Source="FFB4B4B4" />
       </Color>
       <Color Name="HTML Server-Side Script">
-        <Background Type="CT_RAW" Source="FFFFFFB3" />
+        <Background Type="CT_RAW" Source="FFEEEE99" />
         <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="HTML Tag Delimiter">
@@ -5331,7 +5331,7 @@
       </Color>
       <Color Name="Caret (Secondary)">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF103156" />
+        <Foreground Type="CT_RAW" Source="FF226EAB" />
       </Color>
       <Color Name="MarkerFormatDefinition/VerticalHighlight">
         <Background Type="CT_RAW" Source="FF000000" />
