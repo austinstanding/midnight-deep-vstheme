@@ -2417,10 +2417,10 @@
         <Background Type="CT_RAW" Source="FFD0E6F5" />
       </Color>
       <Color Name="FileTabInactiveGradientTop">
-        <Background Type="CT_RAW" Source="FF04071F" />
+        <Background Type="CT_RAW" Source="FF0A1C3B" />
       </Color>
       <Color Name="FileTabInactiveGradientBottom">
-        <Background Type="CT_RAW" Source="FF04071F" />
+        <Background Type="CT_RAW" Source="FF0A1C3B" />
       </Color>
       <Color Name="FileTabInactiveDocumentBorderBackground">
         <Background Type="CT_RAW" Source="FF04071F" />
@@ -3631,10 +3631,10 @@
         <Background Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="FileTabButtonHoverSelectedInactive">
-        <Background Type="CT_RAW" Source="FF555555" />
+        <Background Type="CT_RAW" Source="FF0D101B" />
       </Color>
       <Color Name="FileTabButtonHoverSelectedInactiveBorder">
-        <Background Type="CT_RAW" Source="FF555555" />
+        <Background Type="CT_RAW" Source="FF0D101B" />
       </Color>
       <Color Name="FileTabButtonHoverSelectedInactiveGlyph">
         <Background Type="CT_RAW" Source="FFCCCCCC" />
@@ -3643,7 +3643,7 @@
         <Background Type="CT_RAW" Source="FF0D101B" />
       </Color>
       <Color Name="FileTabInactiveBorder">
-        <Background Type="CT_RAW" Source="FF04071F" />
+        <Background Type="CT_RAW" Source="FF0A1C3B" />
       </Color>
       <Color Name="DropDownMouseDownGlyph">
         <Background Type="CT_RAW" Source="FFCCCCCC" />
