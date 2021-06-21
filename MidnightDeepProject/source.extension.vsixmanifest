@@ -8,7 +8,7 @@
                   Language="en-US"
                   Publisher="Austin Standing" />
         <DisplayName>Midnight Deep</DisplayName>
-        <Description xml:space="preserve">Midnight Deep is an original dark theme for Visual Studio, from the author of Midnight Lights.</Description>
+        <Description xml:space="preserve">Midnight Deep is an original dark theme for Visual Studio 2019 and 2022, from the author of Midnight Lights.</Description>
         <MoreInfo>https://github.com/austinstanding/midnight-deep-vstheme</MoreInfo>
         <Icon>midnight_deep_preview.PNG</Icon>
         <PreviewImage>screenshot1.png</PreviewImage>

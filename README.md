@@ -1,6 +1,6 @@
 # Midnight Deep Visual Studio Theme
 
-⚫ **Midnight Deep** is a fork of my other theme 🌌 **Midnight Lights** available [here](https://github.com/austinstanding/midnight-lights-vstheme). This aims to be a true dark theme for Visual Studio 2019.
+⚫ **Midnight Deep** is a fork of my other theme 🌌 **Midnight Lights** available [here](https://github.com/austinstanding/midnight-lights-vstheme). This aims to be a true dark theme for Visual Studio 2019 and 2022.
 
 ![Midnight Deep Screenshot](https://github.com/austinstanding/midnight-deep-vstheme/raw/master/images/screenshot1.png)
 
@@ -17,6 +17,11 @@ CI/CD uses Azure DevOps, following [Meziantou's Blog](https://www.meziantou.net/
 I like to extend my theme with [Viasfora](https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora), mostly for Rainbow Braces. I've added my Viasfora theme within the github repo as `viasfora-theme.json`. If you're a Viasfora user, themes can be exported/imported from *Tools -> Options -> Viasfora -> Export / Import*. The section Themes takes `.json` and `.vsftheme` files.
 
 ## Versions
+
+### v1.1
+
+- Brighten inactive filetab ✨
+- Add support for VS 2022 🔧
 
 ### v1.0
 
