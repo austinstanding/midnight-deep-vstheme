@@ -8,14 +8,18 @@
                   Language="en-US"
                   Publisher="Austin Standing" />
         <DisplayName>Midnight Deep</DisplayName>
-        <Description xml:space="preserve">Midnight Deep is an original dark theme for Visual Studio, from the author of Midnight Lights.</Description>
+        <Description xml:space="preserve">Midnight Deep is an original dark theme for Visual Studio 2019 and 2022, from the author of Midnight Lights.</Description>
         <MoreInfo>https://github.com/austinstanding/midnight-deep-vstheme</MoreInfo>
         <Icon>midnight_deep_preview.PNG</Icon>
         <PreviewImage>screenshot1.png</PreviewImage>
     </Metadata>
     <Installation>
-        <InstallationTarget Id="Microsoft.VisualStudio.Community"
-                            Version="[16.0, 17.0)" />
+        <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[16.0,17.0)">
+			<ProductArchitecture>x86</ProductArchitecture>
+		</InstallationTarget>
+		<InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0,18.0)">
+			<ProductArchitecture>amd64</ProductArchitecture>
+		</InstallationTarget>
     </Installation>
     <Dependencies>
         <Dependency Id="Microsoft.Framework.NDP"
@@ -25,7 +29,7 @@
     </Dependencies>
     <Prerequisites>
         <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor"
-                      Version="[16.0,17.0)"
+                      Version="[16.0,)"
                       DisplayName="Visual Studio core editor" />
     </Prerequisites>
     <Assets>
