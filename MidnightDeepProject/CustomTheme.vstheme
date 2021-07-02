@@ -4290,10 +4290,10 @@
         <Background Type="CT_RAW" Source="FF08182A" />
       </Color>
       <Color Name="FileTabIndicatorTextSelectedActive">
-        <Background Type="CT_RAW" Source="FF007ACC" />
+        <Background Type="CT_RAW" Source="FF3399FF" />
       </Color>
       <Color Name="FileTabIndicatorTextSelectedInactive">
-        <Background Type="CT_RAW" Source="FF3F3F46" />
+        <Background Type="CT_RAW" Source="FF067B7A" />
       </Color>
       <Color Name="FileTabScrollBarThumb">
         <Background Type="CT_RAW" Source="FF4C4F57" />
@@ -4325,13 +4325,13 @@
         <Background Type="CT_RAW" Source="FFF6F6F6" />
       </Color>
       <Color Name="FileTabParentText">
-        <Background Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="FileTabGroupTitleBackground">
-        <Background Type="CT_RAW" Source="FF04071F" />
+        <Background Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="FileTabActiveGroupTitleBackground">
-        <Background Type="CT_RAW" Source="FF0D101B" />
+        <Background Type="CT_RAW" Source="FF08182A" />
       </Color>
       <Color Name="FileTabActiveGroupBackground">
         <Background Type="CT_RAW" Source="FF000000" />
