@@ -18,7 +18,7 @@ I like to extend my theme with [Viasfora](https://marketplace.visualstudio.com/i
 
 ## Versions
 
-### v1.2
+### v1.2.2
 
 - Add theming for vertical document tabs ✨
 - Add missing elements from standard dark theme ➕
