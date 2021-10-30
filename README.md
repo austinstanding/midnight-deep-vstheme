@@ -18,6 +18,10 @@ I like to extend my theme with [Viasfora](https://marketplace.visualstudio.com/i
 
 ## Versions
 
+### v1.2.5
+
+- Improve contrast in merge conflict window 🚸
+
 ### v1.2.4
 
 - Fix breaking change introduced in VS 2022 Preview 4.1 🩹

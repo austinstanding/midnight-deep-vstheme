@@ -4959,7 +4959,7 @@
 				<Foreground Type="CT_INVALID" Source="00000000" />
 			</Color>
 			<Color Name="mergeEditor.NotAcceptedLine">
-				<Background Type="CT_RAW" Source="FF181C18" />
+				<Background Type="CT_RAW" Source="FF1B1317" />
 				<Foreground Type="CT_INVALID" Source="00000000" />
 			</Color>
 			<Color Name="mergeEditor.DeletedNegativeSpace">
@@ -4983,7 +4983,7 @@
 				<Foreground Type="CT_INVALID" Source="00000000" />
 			</Color>
 			<Color Name="mergeEditor.SelectionBox">
-				<Background Type="CT_RAW" Source="FF8CF1EF" />
+				<Background Type="CT_RAW" Source="FF00D2CB" />
 				<Foreground Type="CT_INVALID" Source="00000000" />
 			</Color>
 			<Color Name="XML Doc Comment">
@@ -5643,15 +5643,15 @@
 				<Foreground Type="CT_INVALID" Source="00000000" />
 			</Color>
 			<Color Name="mergeEditor.ConflictMismatchLine">
-				<Background Type="CT_INVALID" Source="00000000" />
+				<Background Type="CT_RAW" Source="FF9D6807" />
 				<Foreground Type="CT_INVALID" Source="00000000" />
 			</Color>
 			<Color Name="mergeEditor.WordDiffBoxConflict">
-				<Background Type="CT_INVALID" Source="00000000" />
+				<Background Type="CT_RAW" Source="FFCD8537" />
 				<Foreground Type="CT_INVALID" Source="00000000" />
 			</Color>
 			<Color Name="mergeEditor.WordDiffBoxAccepted">
-				<Background Type="CT_INVALID" Source="00000000" />
+				<Background Type="CT_RAW" Source="FFA2A72D" />
 				<Foreground Type="CT_INVALID" Source="00000000" />
 			</Color>
 			<Color Name="Node.js Interactive - Error">
