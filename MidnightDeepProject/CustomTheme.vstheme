@@ -5647,11 +5647,11 @@
 				<Foreground Type="CT_INVALID" Source="00000000" />
 			</Color>
 			<Color Name="mergeEditor.WordDiffBoxConflict">
-				<Background Type="CT_RAW" Source="FFCD8537" />
+				<Background Type="CT_RAW" Source="FF69462B" />
 				<Foreground Type="CT_INVALID" Source="00000000" />
 			</Color>
 			<Color Name="mergeEditor.WordDiffBoxAccepted">
-				<Background Type="CT_RAW" Source="FFA2A72D" />
+				<Background Type="CT_RAW" Source="FF596C42" />
 				<Foreground Type="CT_INVALID" Source="00000000" />
 			</Color>
 			<Color Name="Node.js Interactive - Error">
