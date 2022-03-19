@@ -18,6 +18,10 @@ I like to extend my theme with [Viasfora](https://marketplace.visualstudio.com/i
 
 ## Versions
 
+### v1.2.6
+
+- Minor tweak for ReSharper users 👽️
+
 ### v1.2.5
 
 - Improve contrast in merge conflict window 🚸
