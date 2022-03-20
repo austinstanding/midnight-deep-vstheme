@@ -2315,6 +2315,10 @@
 				<Background Type="CT_INVALID" Source="00000000" />
 				<Foreground Type="CT_INVALID" Source="00000000" />
 			</Color>
+			<Color Name="ReSharper Parameter Name Hint">
+				<Background Type="CT_RAW" Source="FF212433" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
 		</Category>
 		<Category Name="Command Window" GUID="{ee1be240-4e81-4beb-8eea-54322b6b1bf5}">
 			<Color Name="Plain Text">
@@ -6092,10 +6096,6 @@
 			<Color Name="Watermark">
 				<Background Type="CT_RAW" Source="FF000000" />
 				<Foreground Type="CT_RAW" Source="FF999999" />
-			</Color>
-			<Color Name="ReSharper Parameter Name Hint">
-				<Background Type="CT_RAW" Source="FF212433" />
-				<Foreground Type="CT_INVALID" Source="00000000" />
 			</Color>
 		</Category>
 		<Category Name="NavigateTo" GUID="{d58e4793-9fe6-450b-b200-b93a3c17aa12}">

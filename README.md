@@ -18,7 +18,7 @@ I like to extend my theme with [Viasfora](https://marketplace.visualstudio.com/i
 
 ## Versions
 
-### v1.2.6
+### v1.2.6-7
 
 - Minor tweak for ReSharper users 👽️
 
