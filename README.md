@@ -8,7 +8,7 @@ This theme was born out of a need for darkness; to rest my eyes after an extende
 
 ## Installation
 
-After [installing the extension from the Marketplace](https://marketplace.visualstudio.com/items?itemName=AustinStanding.vsthememidnightdeep), the theme will be available in the dropdown under *Tools -> Options -> General*.
+After [installing the extension from the Marketplace](https://marketplace.visualstudio.com/items?itemName=AustinStanding.vsthememidnightdeep), the theme will be available in the dropdown under *Tools -> Theme* or *Tools -> Options -> General*.
 
 ## Misc
 
