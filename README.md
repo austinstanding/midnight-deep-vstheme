@@ -14,9 +14,14 @@ After [installing the extension from the Marketplace](https://marketplace.visual
 
 CI/CD uses Azure DevOps, following [Meziantou's Blog](https://www.meziantou.net/ci-cd-pipeline-for-a-visual-studio-extension-vsix-using-azure-devops.htm). CD presently disabled as VsixPublisher does not support the Themes category.
 
-I like to extend my theme with [Viasfora](https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora), mostly for Rainbow Braces. I've added my Viasfora theme within the github repo as `viasfora-theme.json`. If you're a Viasfora user, themes can be exported/imported from *Tools -> Options -> Viasfora -> Export / Import*. The section Themes takes `.json` and `.vsftheme` files.
+With introduction of breaking changes or new themed features previous elements are kept for backwards compatibility.
 
 ## Versions
+
+### v1.2.9
+
+- Add theming for native selection highlighting & rainbow braces  ✨
+- Fix line number highlight change in VS 17.4 🩹
 
 ### v1.2.8
 

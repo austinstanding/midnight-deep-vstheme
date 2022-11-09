@@ -1123,6 +1123,14 @@
 				<Background Type="CT_RAW" Source="FF0F202D" />
 				<Foreground Type="CT_INVALID" Source="00000000" />
 			</Color>
+			<Color Name="MarkerFormatDefinition/SelectedTextInScrollBar">
+				<Background Type="CT_RAW" Source="FF6F27F3" />
+				<Foreground Type="CT_RAW" Source="FF6F27F3" />
+			</Color>
+			<Color Name="Matched Selected Text">
+				<Background Type="CT_RAW" Source="FF331960" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
 			<Color Name="Excluded Code">
 				<Background Type="CT_AUTOMATIC" Source="00000000" />
 				<Foreground Type="CT_RAW" Source="FF9B9B9B" />
@@ -1747,6 +1755,10 @@
 				<Background Type="CT_INVALID" Source="00000000" />
 				<Foreground Type="CT_RAW" Source="FF33A2A1" />
 			</Color>
+			<Color Name="Selected Line Number">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_RAW" Source="FFCCCCCC" />
+			</Color>
 			<Color Name="Caret (Primary)">
 				<Background Type="CT_INVALID" Source="00000000" />
 				<Foreground Type="CT_INVALID" Source="00000000" />
@@ -1802,6 +1814,22 @@
 			<Color Name="viasfora.rainbow.error">
 				<Background Type="CT_RAW" Source="FFD2143A" />
 				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
+			<Color Name="Rainbow Brace level 1">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_RAW" Source="FFD600E6" />
+			</Color>
+			<Color Name="Rainbow Brace level 2">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_RAW" Source="FF00B5E6" />
+			</Color>
+			<Color Name="Rainbow Brace level 3">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_RAW" Source="FFE6E600" />
+			</Color>
+			<Color Name="Rainbow Brace level 4">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_RAW" Source="FF00E699" />
 			</Color>
 			<Color Name="TextMate.Classifier">
 				<Background Type="CT_INVALID" Source="00000000" />
@@ -4125,6 +4153,9 @@
 			</Color>
 			<Color Name="ToolWindowButtonDownActiveGlyph">
 				<Background Type="CT_RAW" Source="FFCCCCCC" />
+			</Color>
+			<Color Name="ToolWindowCodeBlockBackground">
+				<Background Type="CT_RAW" Source="FF212433" />
 			</Color>
 			<Color Name="ToolWindowContentTabGradientBegin">
 				<Background Type="CT_RAW" Source="FF000000" />
