@@ -16,43 +16,9 @@ CI/CD uses Azure DevOps, following [Meziantou's Blog](https://www.meziantou.net/
 
 With introduction of breaking changes or new themed features previous elements are kept for backwards compatibility.
 
-## Versions
+## Release Notes
 
-### v1.2.9
+### v1.3
 
-- Add theming for native selection highlighting & rainbow braces  ✨
+- Add theming for *native* selection highlighting & rainbow braces  ✨
 - Fix line number highlight change in VS 17.4 🩹
-
-### v1.2.8
-
-- Dim common bright backgrounds 😎
-
-### v1.2.6-7
-
-- Minor tweak for ReSharper users 👽️
-
-### v1.2.5
-
-- Improve contrast in merge conflict window 🚸
-
-### v1.2.4
-
-- Fix breaking change introduced in VS 2022 Preview 4.1 🩹
-
-### v1.2.3
-
-- Add basic support for C++ colorization ✨
-
-### v1.2.2
-
-- Add theming for vertical document tabs ✨
-- Add missing elements from standard dark theme ➕
-
-### v1.1
-
-- Brighten inactive filetab ✨
-- Add support for VS 2022 🔧
-
-### v1.0
-
-- Initial release 🎉
