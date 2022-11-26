@@ -18,7 +18,6 @@ With introduction of breaking changes or new themed features previous elements a
 
 ## Release Notes
 
-### v1.3
+### v1.4
 
-- Add theming for *native* selection highlighting & rainbow braces  ✨
-- Fix line number highlight change in VS 17.4 🩹
+- Add support for arm64 🔧
