@@ -8837,7 +8837,7 @@
 				<Background Type="CT_RAW" Source="FF000000" />
 			</Color>
 			<Color Name="ListItemBackgroundHover">
-				<Background Type="CT_RAW" Source="FF04071F" />
+				<Background Type="CT_RAW" Source="FF103156" />
 			</Color>
 			<Color Name="ListItemBorderHover">
 				<Background Type="CT_RAW" Source="FF3399FF" />

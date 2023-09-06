@@ -18,6 +18,10 @@ With introduction of breaking changes or new themed features previous elements a
 
 ## Release Notes
 
+### v1.4.2-3
+
+- Improve contrast for list item hover 🚸
+
 ### v1.4.1
 
 - Support 17.6 native rainbow braces ✨
