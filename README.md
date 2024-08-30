@@ -18,6 +18,11 @@ With introduction of breaking changes or new themed features previous elements a
 
 ## Release Notes
 
+### v1.4.4
+
+- Add "Theme" to title for SEO 🔍
+- Support recently added themed items
+
 ### v1.4.2-3
 
 - Improve contrast for list item hover 🚸
