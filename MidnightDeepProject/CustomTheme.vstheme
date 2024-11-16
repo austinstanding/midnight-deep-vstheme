@@ -2422,6 +2422,14 @@
 				<Background Type="CT_RAW" Source="FFF2F8FC" />
 				<Foreground Type="CT_INVALID" Source="00000000" />
 			</Color>
+			<Color Name="outlining.chevron.collapsed">
+				<Background Type="CT_RAW" Source="FF103156" />
+				<Foreground Type="CT_RAW" Source="FFA5A5A5" />
+			</Color>
+			<Color Name="outlining.chevron.expanded">
+				<Background Type="CT_RAW" Source="FF111924" />
+				<Foreground Type="CT_RAW" Source="FFA5A5A5" />
+			</Color>
 			<Color Name="outlining.verticalrule">
 				<Background Type="CT_INVALID" Source="00000000" />
 				<Foreground Type="CT_RAW" Source="FFA5A5A5" />
@@ -5853,6 +5861,14 @@
 			<Color Name="Collapsible Text (Expanded)">
 				<Background Type="CT_INVALID" Source="00000000" />
 				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
+			<Color Name="outlining.chevron.collapsed">
+				<Background Type="CT_RAW" Source="FF103156" />
+				<Foreground Type="CT_RAW" Source="FFA5A5A5" />
+			</Color>
+			<Color Name="outlining.chevron.expanded">
+				<Background Type="CT_RAW" Source="FF111924" />
+				<Foreground Type="CT_RAW" Source="FFA5A5A5" />
 			</Color>
 			<Color Name="outlining.verticalrule">
 				<Background Type="CT_INVALID" Source="00000000" />
