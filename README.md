@@ -18,6 +18,10 @@ With introduction of breaking changes or new themed features previous elements a
 
 ## Release Notes
 
+### v1.4.6
+
+- Add support for Android xml ✨
+
 ### v1.4.5
 
 - Dim 17.12 outline chevrons 😎
