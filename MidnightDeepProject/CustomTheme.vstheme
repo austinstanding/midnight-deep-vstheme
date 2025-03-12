@@ -8514,6 +8514,10 @@
 				<Background Type="CT_RAW" Source="FFFFFFFF" />
 				<Foreground Type="CT_RAW" Source="FF1E1E1E" />
 			</Color>
+			<Color Name="ActionButtonTextActive">
+				<Background Type="CT_RAW" Source="FF103156" />
+				<Foreground Type="CT_RAW" Source="FFCCCCCC" />
+			</Color>
 		</Category>
 		<Category Name="ThemedUtilityDialog" GUID="{e2961a72-48a5-4da7-8168-1fee490f78a7}">
 			<Color Name="ActiveCaption">

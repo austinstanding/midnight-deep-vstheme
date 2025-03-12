@@ -18,6 +18,10 @@ With introduction of breaking changes or new themed features previous elements a
 
 ## Release Notes
 
+### v1.4.8
+
+- Fix Get Started hover 🩹
+
 ### v1.4.7
 
 - Fix 17.13 degradations 🩹
