@@ -1716,7 +1716,7 @@
 			</Color>
 			<Color Name="regex - character class">
 				<Background Type="CT_INVALID" Source="00000000" />
-				<Foreground Type="CT_RAW" Source="FF103156" />
+				<Foreground Type="CT_RAW" Source="FF184981" />
 			</Color>
 			<Color Name="regex - anchor">
 				<Background Type="CT_INVALID" Source="00000000" />
@@ -1728,11 +1728,11 @@
 			</Color>
 			<Color Name="regex - grouping">
 				<Background Type="CT_INVALID" Source="00000000" />
-				<Foreground Type="CT_RAW" Source="FF103156" />
+				<Foreground Type="CT_RAW" Source="FF184981" />
 			</Color>
 			<Color Name="regex - alternation">
 				<Background Type="CT_INVALID" Source="00000000" />
-				<Foreground Type="CT_RAW" Source="FF103156" />
+				<Foreground Type="CT_RAW" Source="FF184981" />
 			</Color>
 			<Color Name="regex - text">
 				<Background Type="CT_INVALID" Source="00000000" />
@@ -2463,7 +2463,11 @@
 				<Foreground Type="CT_INVALID" Source="00000000" />
 			</Color>
 			<Color Name="StickyScroll Background">
-				<Background Type="CT_RAW" Source="FFF2F8FC" />
+				<Background Type="CT_RAW" Source="FF000000" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
+			<Color Name="StickyScrollLineHighlightFormat">
+				<Background Type="CT_RAW" Source="FF111924" />
 				<Foreground Type="CT_INVALID" Source="00000000" />
 			</Color>
 			<Color Name="outlining.chevron.collapsed">
@@ -8100,7 +8104,7 @@
 				<Foreground Type="CT_RAW" Source="FFEA7E85" />
 			</Color>
 			<Color Name="Breakpoint - Advanced (Enabled)">
-				<Background Type="CT_RAW" Source="FF8C2F2F" />
+				<Background Type="CT_RAW" Source="FF732626" />
 				<Foreground Type="CT_RAW" Source="FFCCCCCC" />
 			</Color>
 			<Color Name="Tracepoint (Error)">
@@ -8128,19 +8132,19 @@
 				<Foreground Type="CT_RAW" Source="FFD7BA7D" />
 			</Color>
 			<Color Name="Breakpoint - Advanced (Warning)">
-				<Background Type="CT_RAW" Source="FF8C2F2F" />
+				<Background Type="CT_RAW" Source="FF732626" />
 				<Foreground Type="CT_RAW" Source="FFCCCCCC" />
 			</Color>
 			<Color Name="Breakpoint - Mapped (Warning)">
-				<Background Type="CT_RAW" Source="FF8C2F2F" />
+				<Background Type="CT_RAW" Source="FF732626" />
 				<Foreground Type="CT_RAW" Source="FFCCCCCC" />
 			</Color>
 			<Color Name="Breakpoint - Mapped (Error)">
-				<Background Type="CT_RAW" Source="FF8C2F2F" />
+				<Background Type="CT_RAW" Source="FF732626" />
 				<Foreground Type="CT_RAW" Source="FFFFDBA3" />
 			</Color>
 			<Color Name="Breakpoint - Advanced (Error)">
-				<Background Type="CT_RAW" Source="FF8C2F2F" />
+				<Background Type="CT_RAW" Source="FF732626" />
 				<Foreground Type="CT_RAW" Source="FFFFDBA3" />
 			</Color>
 			<Color Name="Current Statement">
@@ -8160,7 +8164,7 @@
 				<Foreground Type="CT_RAW" Source="FFAEAEAE" />
 			</Color>
 			<Color Name="Breakpoint (Error)">
-				<Background Type="CT_RAW" Source="FF8C2F2F" />
+				<Background Type="CT_RAW" Source="FF732626" />
 				<Foreground Type="CT_RAW" Source="FFFFDBA3" />
 			</Color>
 			<Color Name="Tracepoint - Advanced (Error)">
@@ -8168,7 +8172,7 @@
 				<Foreground Type="CT_RAW" Source="FFEA7E5F" />
 			</Color>
 			<Color Name="Breakpoint (Warning)">
-				<Background Type="CT_RAW" Source="FF8C2F2F" />
+				<Background Type="CT_RAW" Source="FF732626" />
 				<Foreground Type="CT_RAW" Source="FFCCCCCC" />
 			</Color>
 			<Color Name="Coverage Touched Area">
@@ -8188,7 +8192,7 @@
 				<Foreground Type="CT_RAW" Source="FF000000" />
 			</Color>
 			<Color Name="Breakpoint (Enabled)">
-				<Background Type="CT_RAW" Source="FF8C2F2F" />
+				<Background Type="CT_RAW" Source="FF732626" />
 				<Foreground Type="CT_RAW" Source="FFCCCCCC" />
 			</Color>
 			<Color Name="Call Return">
@@ -8212,7 +8216,7 @@
 				<Foreground Type="CT_RAW" Source="FFEFF284" />
 			</Color>
 			<Color Name="Breakpoint - Mapped (Enabled)">
-				<Background Type="CT_RAW" Source="FF8C2F2F" />
+				<Background Type="CT_RAW" Source="FF732626" />
 				<Foreground Type="CT_RAW" Source="FFCCCCCC" />
 			</Color>
 			<Color Name="Tracepoint (Warning)">
