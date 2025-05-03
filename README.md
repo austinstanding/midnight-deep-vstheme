@@ -20,6 +20,7 @@ With introduction of breaking changes or new themed features previous elements a
 
 ### v1.4.11
 
+- Add menu borders 🚸
 - Dim provisional and debug status bars 😎
 
 ### v1.4.10

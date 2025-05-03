@@ -338,10 +338,10 @@
 				<Foreground Type="CT_RAW" Source="FFCCCCCC" />
 			</Color>
 			<Color Name="ComboBoxBorder">
-				<Background Type="CT_RAW" Source="FF04071F" />
+				<Background Type="CT_RAW" Source="FF15263F" />
 			</Color>
 			<Color Name="ComboBoxMouseOverBorder">
-				<Background Type="CT_RAW" Source="FF04071F" />
+				<Background Type="CT_RAW" Source="FF15263F" />
 			</Color>
 			<Color Name="ComboBoxDisabled">
 				<Background Type="CT_RAW" Source="FF000000" />
@@ -355,7 +355,7 @@
 				<Foreground Type="CT_RAW" Source="FFCCCCCC" />
 			</Color>
 			<Color Name="ComboBoxButtonBorder">
-				<Background Type="CT_RAW" Source="FF000000" />
+				<Background Type="CT_RAW" Source="FF15263F" />
 			</Color>
 			<Color Name="ComboBoxButtonMouseOver">
 				<Background Type="CT_RAW" Source="FF090C1D" />
@@ -372,7 +372,7 @@
 				<Foreground Type="CT_RAW" Source="FFCCCCCC" />
 			</Color>
 			<Color Name="ComboBoxPopUpBorder">
-				<Background Type="CT_RAW" Source="FF000000" />
+				<Background Type="CT_RAW" Source="FF15263F" />
 			</Color>
 			<Color Name="ComboBoxPopUp">
 				<Background Type="CT_RAW" Source="FF000000" />
@@ -2648,13 +2648,13 @@
 				<Background Type="CT_RAW" Source="FF000000" />
 			</Color>
 			<Color Name="ComboBoxBorder">
-				<Background Type="CT_RAW" Source="FF04071F" />
+				<Background Type="CT_RAW" Source="FF15263F" />
 			</Color>
 			<Color Name="ComboBoxText">
 				<Background Type="CT_RAW" Source="FFCCCCCC" />
 			</Color>
 			<Color Name="ComboBoxSeparator">
-				<Background Type="CT_RAW" Source="FF000000" />
+				<Background Type="CT_RAW" Source="FF15263F" />
 			</Color>
 			<Color Name="ComboBoxGlyph">
 				<Background Type="CT_RAW" Source="FF999999" />
@@ -3750,7 +3750,7 @@
 				<Background Type="CT_RAW" Source="FF000000" />
 			</Color>
 			<Color Name="ComboBoxBorder">
-				<Background Type="CT_RAW" Source="FF04071F" />
+				<Background Type="CT_RAW" Source="FF15263F" />
 			</Color>
 			<Color Name="ComboBoxDisabledBackground">
 				<Background Type="CT_RAW" Source="FF000000" />
@@ -3795,7 +3795,7 @@
 				<Background Type="CT_RAW" Source="FF000000" />
 			</Color>
 			<Color Name="ComboBoxPopupBorder">
-				<Background Type="CT_RAW" Source="FF000000" />
+				<Background Type="CT_RAW" Source="FF15263F" />
 			</Color>
 			<Color Name="CommandBarCheckBox">
 				<Background Type="CT_RAW" Source="FF999999" />
@@ -3807,16 +3807,16 @@
 				<Background Type="CT_RAW" Source="FF000000" />
 			</Color>
 			<Color Name="CommandBarMenuBorder">
-				<Background Type="CT_RAW" Source="FF000000" />
+				<Background Type="CT_RAW" Source="FF15263F" />
 			</Color>
 			<Color Name="CommandBarMenuIconBackground">
 				<Background Type="CT_RAW" Source="FF000000" />
 			</Color>
 			<Color Name="CommandBarMenuMouseOverSubmenuGlyph">
-				<Background Type="CT_RAW" Source="FF103156" />
+				<Background Type="CT_RAW" Source="FFCCCCCC" />
 			</Color>
 			<Color Name="CommandBarMenuSeparator">
-				<Background Type="CT_RAW" Source="FF000000" />
+				<Background Type="CT_RAW" Source="FF15263F" />
 			</Color>
 			<Color Name="CommandBarMenuSubmenuGlyph">
 				<Background Type="CT_RAW" Source="FF999999" />
@@ -3879,10 +3879,10 @@
 				<Background Type="CT_RAW" Source="FF3399FF" />
 			</Color>
 			<Color Name="CommandBarToolBarBorder">
-				<Background Type="CT_RAW" Source="FF000000" />
+				<Background Type="CT_RAW" Source="FF04071F" />
 			</Color>
 			<Color Name="CommandBarToolBarSeparator">
-				<Background Type="CT_RAW" Source="FF222222" />
+				<Background Type="CT_RAW" Source="FF15263F" />
 			</Color>
 			<Color Name="CommandShelfBackgroundGradientBegin">
 				<Background Type="CT_RAW" Source="FF000000" />
@@ -7360,13 +7360,13 @@
 				<Background Type="CT_RAW" Source="FF000000" />
 			</Color>
 			<Color Name="ComboBoxBorder">
-				<Background Type="CT_RAW" Source="FF04071F" />
+				<Background Type="CT_RAW" Source="FF15263F" />
 			</Color>
 			<Color Name="ComboBoxText">
 				<Background Type="CT_RAW" Source="FFCCCCCC" />
 			</Color>
 			<Color Name="ComboBoxSeparator">
-				<Background Type="CT_RAW" Source="FF000000" />
+				<Background Type="CT_RAW" Source="FF15263F" />
 			</Color>
 			<Color Name="ComboBoxGlyph">
 				<Background Type="CT_RAW" Source="FF999999" />
