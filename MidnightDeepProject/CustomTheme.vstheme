@@ -5138,10 +5138,10 @@
 				<Background Type="CT_RAW" Source="FFCCCCCC" />
 			</Color>
 			<Color Name="FileTabProvisionalSelectedActive">
-				<Background Type="CT_RAW" Source="FF68217A" />
+				<Background Type="CT_RAW" Source="FF481D61" />
 			</Color>
 			<Color Name="FileTabProvisionalSelectedActiveBorder">
-				<Background Type="CT_RAW" Source="FF68217A" />
+				<Background Type="CT_RAW" Source="FF481D61" />
 			</Color>
 			<Color Name="FileTabProvisionalSelectedActiveForeground">
 				<Background Type="CT_RAW" Source="FFCCCCCC" />
@@ -5174,28 +5174,28 @@
 				<Background Type="CT_RAW" Source="FFCCCCCC" />
 			</Color>
 			<Color Name="FileTabButtonProvisionalDownInactive">
-				<Background Type="CT_RAW" Source="FF442359" />
+				<Background Type="CT_RAW" Source="FF341E4D" />
 			</Color>
 			<Color Name="FileTabButtonProvisionalDownInactiveBorder">
-				<Background Type="CT_RAW" Source="FF442359" />
+				<Background Type="CT_RAW" Source="FF341E4D" />
 			</Color>
 			<Color Name="FileTabButtonProvisionalDownInactiveGlyph">
 				<Background Type="CT_RAW" Source="FFCCCCCC" />
 			</Color>
 			<Color Name="FileTabButtonProvisionalHoverSelectedActive">
-				<Background Type="CT_RAW" Source="FF9B4F96" />
+				<Background Type="CT_RAW" Source="FF86409C" />
 			</Color>
 			<Color Name="FileTabButtonProvisionalHoverSelectedActiveBorder">
-				<Background Type="CT_RAW" Source="FF9B4F96" />
+				<Background Type="CT_RAW" Source="FF86409C" />
 			</Color>
 			<Color Name="FileTabButtonProvisionalHoverSelectedActiveGlyph">
 				<Background Type="CT_RAW" Source="FFCCCCCC" />
 			</Color>
 			<Color Name="FileTabButtonProvisionalDownSelectedActive">
-				<Background Type="CT_RAW" Source="FF442359" />
+				<Background Type="CT_RAW" Source="FF341E4D" />
 			</Color>
 			<Color Name="FileTabButtonProvisionalDownSelectedActiveBorder">
-				<Background Type="CT_RAW" Source="FF442359" />
+				<Background Type="CT_RAW" Source="FF341E4D" />
 			</Color>
 			<Color Name="FileTabButtonProvisionalDownSelectedActiveGlyph">
 				<Background Type="CT_RAW" Source="FFCCCCCC" />
@@ -5515,25 +5515,25 @@
 				<Foreground Type="CT_RAW" Source="FFCCCCCC" />
 			</Color>
 			<Color Name="MainWindowActiveNoSolutionBorder">
-				<Background Type="CT_RAW" Source="FF68217A" />
+				<Background Type="CT_RAW" Source="FF481D61" />
 			</Color>
 			<Color Name="StatusBarBuilding">
 				<Background Type="CT_RAW" Source="FF067B7A" />
 				<Foreground Type="CT_RAW" Source="FFCCCCCC" />
 			</Color>
 			<Color Name="StatusBarDebugging">
-				<Background Type="CT_RAW" Source="FFCA5100" />
+				<Background Type="CT_RAW" Source="FFAD4500" />
 				<Foreground Type="CT_RAW" Source="FFCCCCCC" />
 			</Color>
 			<Color Name="StatusBarNoSolution">
-				<Background Type="CT_RAW" Source="FF68217A" />
+				<Background Type="CT_RAW" Source="FF481D61" />
 				<Foreground Type="CT_RAW" Source="FFCCCCCC" />
 			</Color>
 			<Color Name="MainWindowActiveBuildingBorder">
 				<Background Type="CT_RAW" Source="FF067B7A" />
 			</Color>
 			<Color Name="MainWindowActiveDebuggingBorder">
-				<Background Type="CT_RAW" Source="FFCA5100" />
+				<Background Type="CT_RAW" Source="FFAD4500" />
 			</Color>
 			<Color Name="MainWindowActiveDefaultBorder">
 				<Background Type="CT_RAW" Source="FF103156" />
@@ -5563,10 +5563,10 @@
 				<Background Type="CT_RAW" Source="FFE1D3E4" />
 			</Color>
 			<Color Name="FileTabProvisionalHover">
-				<Background Type="CT_RAW" Source="FF68217A" />
+				<Background Type="CT_RAW" Source="FF481D61" />
 			</Color>
 			<Color Name="FileTabProvisionalHoverBorder">
-				<Background Type="CT_RAW" Source="FF68217A" />
+				<Background Type="CT_RAW" Source="FF481D61" />
 			</Color>
 			<Color Name="FileTabProvisionalHoverForeground">
 				<Background Type="CT_RAW" Source="FFCCCCCC" />

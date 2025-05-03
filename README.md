@@ -18,6 +18,10 @@ With introduction of breaking changes or new themed features previous elements a
 
 ## Release Notes
 
+### v1.4.11
+
+- Dim provisional and debug status bars 😎
+
 ### v1.4.10
 
 - Fix StickyScroll background 🩹
