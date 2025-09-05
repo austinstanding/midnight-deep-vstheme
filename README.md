@@ -18,7 +18,7 @@ With introduction of breaking changes or new themed features previous elements a
 
 ## Release Notes
 
-### v1.4.12
+### v1.4.12-13
 
 - Theme the themed dialogs ✨
 - Dim more backgrounds 😎
