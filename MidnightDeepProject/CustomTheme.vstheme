@@ -708,7 +708,7 @@
 				<Foreground Type="CT_RAW" Source="FFCCCCCC" />
 			</Color>
 			<Color Name="DialogBorder">
-				<Background Type="CT_RAW" Source="FF595959" />
+				<Background Type="CT_RAW" Source="FF0A1C3B" />
 			</Color>
 			<Color Name="CategoryTree">
 				<Background Type="CT_RAW" Source="FF000000" />
@@ -8525,21 +8525,21 @@
 		</Category>
 		<Category Name="ThemedUtilityDialog" GUID="{e2961a72-48a5-4da7-8168-1fee490f78a7}">
 			<Color Name="ActiveCaption">
-				<Background Type="CT_RAW" Source="FF2D2D30" />
+				<Background Type="CT_RAW" Source="FF090C1D" />
 				<Foreground Type="CT_RAW" Source="FF999999" />
 			</Color>
 			<Color Name="WindowBorder">
 				<Background Type="CT_RAW" Source="FF007ACC" />
 			</Color>
 			<Color Name="WindowPanel">
-				<Background Type="CT_RAW" Source="FF252526" />
+				<Background Type="CT_RAW" Source="FF04060D" />
 				<Foreground Type="CT_RAW" Source="FFF1F1F1" />
 			</Color>
 			<Color Name="WindowButton">
 				<Background Type="CT_RAW" Source="00000000" />
 			</Color>
 			<Color Name="WindowButtonHover">
-				<Background Type="CT_RAW" Source="72555555" />
+				<Background Type="CT_RAW" Source="FF103156" />
 			</Color>
 			<Color Name="WindowButtonDown">
 				<Background Type="CT_RAW" Source="FF007ACC" />
@@ -8548,7 +8548,7 @@
 				<Background Type="CT_RAW" Source="00000000" />
 			</Color>
 			<Color Name="WindowButtonHoverBorder">
-				<Background Type="CT_RAW" Source="72555555" />
+				<Background Type="CT_RAW" Source="FF103156" />
 			</Color>
 			<Color Name="WindowButtonDownBorder">
 				<Background Type="CT_RAW" Source="FF007ACC" />
@@ -8557,7 +8557,7 @@
 				<Background Type="CT_RAW" Source="FFF1F1F1" />
 			</Color>
 			<Color Name="WindowButtonDownGlyph">
-				<Background Type="CT_RAW" Source="FFFFFFFF" />
+				<Background Type="CT_RAW" Source="FFF1F1F1" />
 			</Color>
 			<Color Name="WindowButtonHoverGlyph">
 				<Background Type="CT_RAW" Source="FF007ACC" />
