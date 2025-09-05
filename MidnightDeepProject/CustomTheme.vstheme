@@ -6488,7 +6488,7 @@
 		</Category>
 		<Category Name="NotificationBubble" GUID="{800c5171-6625-4a74-b3e2-a6cd0b4698d4}">
 			<Color Name="NotificationBubbleBorder">
-				<Background Type="CT_RAW" Source="FF8CF1EF" />
+				<Background Type="CT_RAW" Source="FF067B7A" />
 			</Color>
 			<Color Name="NotificationBubbleBackground">
 				<Background Type="CT_RAW" Source="FF04071F" />
@@ -6497,7 +6497,7 @@
 				<Foreground Type="CT_RAW" Source="FFCCCCCC" />
 			</Color>
 			<Color Name="NotificationBubbleHyperlink">
-				<Background Type="CT_RAW" Source="FF103156" />
+				<Background Type="CT_RAW" Source="FF55AAFF" />
 			</Color>
 			<Color Name="NotificationBubbleCloseButtonGlyph">
 				<Foreground Type="CT_RAW" Source="FFCCCCCC" />
