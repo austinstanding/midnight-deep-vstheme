@@ -18,53 +18,9 @@ With introduction of breaking changes or new themed features previous elements a
 
 ## Release Notes
 
-### v1.4.12-14
+### v1.5
 
+- Upgrade pipeline VM 👷
 - Theme the themed dialogs ✨
+- Update tabs, borders, popups 🚧
 - Dim more backgrounds 😎
-- Tweak tabs and borders 🚧
-- Tweak popup visibility 🚧
-
-### v1.4.11
-
-- Add menu borders 🚸
-- Dim provisional and debug status bars 😎
-
-### v1.4.10
-
-- Fix StickyScroll background 🩹
-- Dim breakpoints further 😎
-- Improve contrast for regex tokens 🚸
-
-### v1.4.8-9
-
-- Fix Get Started hover 🩹
-
-### v1.4.7
-
-- Fix 17.13 degradations 🩹
-
-### v1.4.6
-
-- Add support for Android xml ✨
-
-### v1.4.5
-
-- Dim 17.12 outline chevrons 😎
-
-### v1.4.4
-
-- Add "Theme" to title for SEO 🔍
-- Support recently added themed items
-
-### v1.4.2-3
-
-- Improve contrast for list item hover 🚸
-
-### v1.4.1
-
-- Support 17.6 native rainbow braces ✨
-
-### v1.4
-
-- Add support for arm64 🔧
