@@ -18,10 +18,11 @@ With introduction of breaking changes or new themed features previous elements a
 
 ## Release Notes
 
-### v1.4.12-13
+### v1.4.12-14
 
 - Theme the themed dialogs ✨
 - Dim more backgrounds 😎
+- Tweak tabs and borders 🚧
 - Tweak popup visibility 🚧
 
 ### v1.4.11

@@ -2748,10 +2748,10 @@
 				<Background Type="CT_RAW" Source="FFCCCCCC" />
 			</Color>
 			<Color Name="ComboBoxListBackground">
-				<Background Type="CT_RAW" Source="FF04071F" />
+				<Background Type="CT_RAW" Source="FF040716" />
 			</Color>
 			<Color Name="ComboBoxListBorder">
-				<Background Type="CT_RAW" Source="FF04071F" />
+				<Background Type="CT_RAW" Source="FF15263F" />
 			</Color>
 			<Color Name="ComboBoxSelection">
 				<Background Type="CT_RAW" Source="FF103156" />
@@ -2781,10 +2781,10 @@
 				<Background Type="CT_RAW" Source="FFCCCCCC" />
 			</Color>
 			<Color Name="InnerTabInactiveHoverBackground">
-				<Background Type="CT_RAW" Source="FF555555" />
+				<Background Type="CT_RAW" Source="FF067B7A" />
 			</Color>
 			<Color Name="InnerTabInactiveHoverBorder">
-				<Background Type="CT_RAW" Source="FF555555" />
+				<Background Type="CT_RAW" Source="FF067B7A" />
 			</Color>
 			<Color Name="InnerTabInactiveHoverText">
 				<Background Type="CT_RAW" Source="FFCCCCCC" />
@@ -5130,10 +5130,10 @@
 				<Background Type="CT_RAW" Source="FFCCCCCC" />
 			</Color>
 			<Color Name="FileTabProvisionalInactive">
-				<Background Type="CT_RAW" Source="FF000000" />
+				<Background Type="CT_RAW" Source="FF341E4D" />
 			</Color>
 			<Color Name="FileTabProvisionalInactiveBorder">
-				<Background Type="CT_RAW" Source="FF000000" />
+				<Background Type="CT_RAW" Source="FF341E4D" />
 			</Color>
 			<Color Name="FileTabProvisionalInactiveForeground">
 				<Background Type="CT_RAW" Source="FFCCCCCC" />
@@ -7460,10 +7460,10 @@
 				<Background Type="CT_RAW" Source="FFCCCCCC" />
 			</Color>
 			<Color Name="ComboBoxListBackground">
-				<Background Type="CT_RAW" Source="FF04071F" />
+				<Background Type="CT_RAW" Source="FF040716" />
 			</Color>
 			<Color Name="ComboBoxListBorder">
-				<Background Type="CT_RAW" Source="FF04071F" />
+				<Background Type="CT_RAW" Source="FF15263F" />
 			</Color>
 			<Color Name="ComboBoxSelection">
 				<Background Type="CT_RAW" Source="FF103156" />
