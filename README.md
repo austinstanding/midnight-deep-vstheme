@@ -1,10 +1,10 @@
 # Midnight Deep Visual Studio Theme
 
-⚫ **Midnight Deep** is a fork of my other theme 🌌 **Midnight Lights** available [here](https://github.com/austinstanding/midnight-lights-vstheme). This aims to be a true dark theme for Visual Studio 2019 and 2022.
+⚫ **Midnight Deep** is an original dark theme for Visual Studio 2019, 2022, and 2026. For something lighter, check out [🌌 **Midnight Lights**](https://marketplace.visualstudio.com/items?itemName=AustinStanding.vsthememidnightlights).
 
 ![Midnight Deep Screenshot](https://github.com/austinstanding/midnight-deep-vstheme/raw/master/images/screenshot1.png)
 
-This theme was born out of a need for darkness; to rest my eyes after an extended period of working long hours and feeling like all the other dark themes just weren't dark enough. This aims to be that dark theme. Midnight Deep draws from the palette of Midnight Lights, while providing a true hex #000000 background and lower brightness generally. This won't be for everyone or every occasion, but my vision is to provide an after hours theme that will let your eyes find rest even when you can't.
+Midnight Deep draws from the palette of Midnight Lights, while providing a true hex #000000 background and lower brightness generally. This won't be for everyone or every occasion, but my vision is to provide an after hours theme that will let your eyes find rest even when you can't.
 
 ## Installation
 
@@ -18,9 +18,7 @@ With introduction of breaking changes or new themed features previous elements a
 
 ## Release Notes
 
-### v1.5
+### v2.0
 
-- Upgrade pipeline VM 👷
-- Theme the themed dialogs ✨
-- Update tabs, borders, popups 🚧
-- Dim more backgrounds 😎
+- Add support for VS2026 🔧
+- Tweak keyword colorization 🚧
