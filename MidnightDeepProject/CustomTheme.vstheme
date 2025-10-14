@@ -7117,7 +7117,7 @@
 				<Background Type="CT_RAW" Source="FF131313" />
 			</Color>
 			<Color Name="ControlSolidFillDefault">
-				<Background Type="CT_RAW" Source="FF454545" />
+				<Background Type="CT_RAW" Source="FF121A23" />
 			</Color>
 			<Color Name="ControlStrokeDefault">
 				<Background Type="CT_RAW" Source="12F1F1F4" />
@@ -7171,10 +7171,10 @@
 				<Background Type="CT_RAW" Source="FF067B7A" />
 			</Color>
 			<Color Name="HyperlinkFillSecondary">
-				<Background Type="CT_RAW" Source="FF067B7A" />
+				<Background Type="CT_RAW" Source="FFECF3CD" />
 			</Color>
 			<Color Name="HyperlinkFillTertiary">
-				<Background Type="CT_RAW" Source="FF3399FF" />
+				<Background Type="CT_RAW" Source="FF57C789" />
 			</Color>
 			<Color Name="LayerFillAlt">
 				<Background Type="CT_RAW" Source="0EF1F1F4" />

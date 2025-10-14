@@ -18,6 +18,13 @@ With introduction of breaking changes or new themed features previous elements a
 
 ## Release Notes
 
+### v2.0.1-2
+
+- Fix popup overrides 🩹
+- Improve highlight contrast 🚸
+- Improve hyperlink contrast 🚸
+- Theme more backgrounds 😎
+
 ### v2.0
 
 - Add support for VS2026 🔧
