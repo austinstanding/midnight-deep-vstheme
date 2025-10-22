@@ -8709,18 +8709,6 @@
 				<Background Type="CT_INVALID" Source="00000000" />
 				<Foreground Type="CT_INVALID" Source="00000000" />
 			</Color>
-			<Color Name="Coverage Not Touched Area">
-				<Background Type="CT_RAW" Source="FFEDE0D1" />
-				<Foreground Type="CT_RAW" Source="FF000000" />
-			</Color>
-			<Color Name="Coverage Partially Touched Area">
-				<Background Type="CT_RAW" Source="FFB4B6CB" />
-				<Foreground Type="CT_RAW" Source="FF000000" />
-			</Color>
-			<Color Name="Coverage Touched Area">
-				<Background Type="CT_RAW" Source="FF9BD1E1" />
-				<Foreground Type="CT_RAW" Source="FF000000" />
-			</Color>
 		</Category>
 		<Category Name="ThemedDialog" GUID="{5e04b2a9-e443-48db-8791-63a2a71cfbd7}">
 			<Color Name="ListBox">
