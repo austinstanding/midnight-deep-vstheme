@@ -20,6 +20,7 @@ With introduction of breaking changes or new themed features previous elements a
 
 ### v2.0.3
 
+- Dim code coverage highlights 😎
 - Drop upper bound of support 🔧
 - Remove duplicate entries 🩹
 
