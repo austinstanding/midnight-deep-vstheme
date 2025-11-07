@@ -7210,7 +7210,7 @@
 				<Background Type="CT_RAW" Source="FF0A1C3B" />
 			</Color>
 			<Color Name="SolidBackgroundFillTertiary">
-				<Background Type="CT_RAW" Source="FF0B0E23" />
+				<Background Type="CT_RAW" Source="FF080613" />
 			</Color>
 			<Color Name="SubtleFillDisabled">
 				<Background Type="CT_RAW" Source="00FFFFFF" />

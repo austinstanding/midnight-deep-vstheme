@@ -18,6 +18,10 @@ With introduction of breaking changes or new themed features previous elements a
 
 ## Release Notes
 
+### v2.0.4-6
+
+- Dim panels and active filetab 😎
+
 ### v2.0.3
 
 - Dim code coverage highlights 😎
