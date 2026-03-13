@@ -1,5 +1,5 @@
 ﻿<Themes>
-	<Theme Name="MidnightDeep" GUID="{05d98fee-51b0-47f2-a78d-38da3c6edc6b}" BaseGUID="{19ffb64a-e5b9-48d7-905c-01fe7969567b}">
+	<Theme Name="MidnightDeep" GUID="{05d98fee-51b0-47f2-a78d-38da3c6edc6b}" BaseGUID="{19ffb64a-e5b9-48d7-905c-01fe7969567b}" FallbackId="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
 		<Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
 			<Color Name="Body">
 				<Background Type="CT_RAW" Source="FF000000" />
@@ -1103,6 +1103,26 @@
 			</Color>
 		</Category>
 		<Category Name="ColorizedSignatureHelp colors" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
+			<Color Name="array name">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
+			<Color Name="function pointer name">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
+			<Color Name="pointer name">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
+			<Color Name="SpeculativeTextClassificationFormatDefinition">
+				<Background Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_INVALID" Source="00000000" />
+			</Color>
+			<Color Name="C/C++ User Keywords">
+				<Background Type="CT_AUTOMATIC" Source="00000000" />
+				<Foreground Type="CT_RAW" Source="FF569CD6" />
+			</Color>
 			<Color Name="inlay hints parameter">
 				<Background Type="CT_INVALID" Source="00000000" />
 				<Foreground Type="CT_INVALID" Source="00000000" />
