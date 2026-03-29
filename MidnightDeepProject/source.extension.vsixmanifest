@@ -8,7 +8,7 @@
                   Language="en-US"
                   Publisher="Austin Standing" />
         <DisplayName>Midnight Deep Theme</DisplayName>
-        <Description xml:space="preserve">Midnight Deep is an original dark theme for Visual Studio 2019, 2022, and 2026. SSMS 20, 21, 22 experimentally supported.</Description>
+        <Description xml:space="preserve">Midnight Deep is an original dark theme for Visual Studio 2019, 2022, and 2026. SSMS 19+ experimentally supported.</Description>
         <MoreInfo>https://github.com/austinstanding/midnight-deep-vstheme</MoreInfo>
         <Icon>midnight_deep_preview.PNG</Icon>
         <PreviewImage>screenshot1.png</PreviewImage>
@@ -23,7 +23,7 @@
 		<InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0,)">
 			<ProductArchitecture>arm64</ProductArchitecture>
 		</InstallationTarget>
-		<InstallationTarget Id="Microsoft.VisualStudio.Ssms" Version="[20.0,21.0)">
+		<InstallationTarget Id="Microsoft.VisualStudio.Ssms" Version="[19.0,21.0)">
 			<ProductArchitecture>x86</ProductArchitecture>
 		</InstallationTarget>
 		<InstallationTarget Id="Microsoft.VisualStudio.Ssms" Version="[21.0,)">
