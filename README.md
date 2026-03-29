@@ -1,6 +1,9 @@
 # Midnight Deep Visual Studio Theme
 
-⚫ **Midnight Deep** is an original dark theme for Visual Studio 2019, 2022, and 2026. For something lighter, check out [🌌 **Midnight Lights**](https://marketplace.visualstudio.com/items?itemName=AustinStanding.vsthememidnightlights).
+⚫ **Midnight Deep** is an original dark theme for **Visual Studio 2019, 2022, and 2026**. For something lighter, check out [🌌 **Midnight Lights**](https://marketplace.visualstudio.com/items?itemName=AustinStanding.vsthememidnightlights).
+
+Now includes experimental support for **SQL Server Management Studio 20, 21 and 22**!
+> Note [SSMS does not officially support third-party extensions at this time](https://learn.microsoft.com/en-us/ssms/faq#are-extensions-supported-in-ssms).
 
 ![Midnight Deep Screenshot](https://github.com/austinstanding/midnight-deep-vstheme/raw/master/images/screenshot1.png)
 
@@ -18,30 +21,10 @@ With introduction of breaking changes or new themed features previous elements a
 
 ## Release Notes
 
-### v2.0.8
+### v2.1
 
-- Add fallback to standard dark theme ➕
-
-### v2.0.7
-
-- Fix menu breaking change 🩹
-
-### v2.0.4-6
-
-- Dim panels and active filetab 😎
-
-### v2.0.3
-
-- Dim code coverage highlights 😎
-- Drop upper bound of support 🔧
-- Remove duplicate entries 🩹
-
-### v2.0.1-2
-
-- Fix popup overrides 🩹
-- Improve highlight contrast 🚸
-- Improve hyperlink contrast 🚸
-- Theme more backgrounds 😎
+- Add experimental support for SQL Server Management Studio 🧪
+- Add 2026 fallback to standard dark theme ➕
 
 ### v2.0
 
