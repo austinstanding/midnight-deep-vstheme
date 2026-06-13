@@ -7349,7 +7349,7 @@
 				<Background Type="CT_RAW" Source="FF454545" />
 			</Color>
 			<Color Name="EnvironmentHeader">
-				<Background Type="CT_RAW" Source="FF081282A" />
+				<Background Type="CT_RAW" Source="FF040D1C" />
 			</Color>
 			<Color Name="EnvironmentHeaderInactive">
 				<Background Type="CT_RAW" Source="00000000" />
@@ -8260,7 +8260,7 @@
 			</Color>
 			<Color Name="SQL String">
 				<Background Type="CT_AUTOMATIC" Source="00000000" />
-				<Foreground Type="CT_RAW" Source="FFCB4141" />
+				<Foreground Type="CT_RAW" Source="FFC8553D" />
 			</Color>
 			<Color Name="SQLCMD Command">
 				<Background Type="CT_RAW" Source="FF484848" />
