@@ -7336,11 +7336,23 @@
 			<Color Name="EnvironmentBadge">
 				<Background Type="CT_RAW" Source="0FF1F1F4" />
 			</Color>
+			<Color Name="EnvironmentBody">
+				<Background Type="CT_RAW" Source="FF000000" />
+			</Color>
+			<Color Name="EnvironmentBodyText">
+				<Foreground Type="CT_RAW" Source="FFF1F1F1" />
+			</Color>
 			<Color Name="EnvironmentBorder">
 				<Background Type="CT_RAW" Source="FF15263F" />
 			</Color>
 			<Color Name="EnvironmentBorderInactive">
 				<Background Type="CT_RAW" Source="FF454545" />
+			</Color>
+			<Color Name="EnvironmentHeader">
+				<Background Type="CT_RAW" Source="FF081282A" />
+			</Color>
+			<Color Name="EnvironmentHeaderInactive">
+				<Background Type="CT_RAW" Source="00000000" />
 			</Color>
 			<Color Name="EnvironmentIndicator">
 				<Background Type="CT_RAW" Source="66757575" />
@@ -7353,6 +7365,12 @@
 			</Color>
 			<Color Name="EnvironmentLogo">
 				<Background Type="CT_RAW" Source="FF067B7A" />
+			</Color>
+			<Color Name="EnvironmentTab">
+				<Background Type="CT_RAW" Source="FF0C2146" />
+			</Color>
+			<Color Name="EnvironmentTabInactive">
+				<Background Type="CT_RAW" Source="FF121A23" />
 			</Color>
 			<Color Name="StatusBarBackgroundFillBuilding">
 				<Background Type="CT_RAW" Source="FF3F3682" />
