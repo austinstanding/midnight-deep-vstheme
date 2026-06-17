@@ -18,7 +18,7 @@ With introduction of breaking changes or new themed features previous elements a
 
 ## Release Notes
 
-### v2.0.9-10
+### v2.0.9-11
 
 - Fix shell breaking changes 🩹
 - Tweak SQL colorization 🚧

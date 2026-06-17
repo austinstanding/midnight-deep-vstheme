@@ -7340,7 +7340,7 @@
 				<Background Type="CT_RAW" Source="FF000000" />
 			</Color>
 			<Color Name="EnvironmentBodyText">
-				<Foreground Type="CT_RAW" Source="FFF1F1F1" />
+				<Background Type="CT_RAW" Source="FFF1F1F1" />
 			</Color>
 			<Color Name="EnvironmentBorder">
 				<Background Type="CT_RAW" Source="FF15263F" />
